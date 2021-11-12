@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebpack=self.webpackChunkwebpack||[]).push([[772],{772:(e,a,s)=>{s.r(a),s.d(a,{loadImage:()=>c});var n=s(574);const c=()=>{const e=new Image;return e.src=n,console.log("adding inside img file",5),e}},574:(e,a,s)=>{e.exports=s.p+"images/awesome_webpack_branding.png"}}]);
